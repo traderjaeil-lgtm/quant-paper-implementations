@@ -1,2 +1,2 @@
 # quant-paper-implementations
-파이썬으로 구현한 주요 퀀트 금융 논문들
+학술 논문의 퀀트 트레이딩 전략 재현 및 백테스팅
